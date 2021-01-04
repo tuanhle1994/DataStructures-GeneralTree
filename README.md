@@ -1,4 +1,4 @@
-# DataStructures-GeneralTree
+# DataStructure_GeneralTree
 Data Structure - Implementation of a general tree in C#
 
 # Description: 
